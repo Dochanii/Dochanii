@@ -1,6 +1,6 @@
 <h1 align="center">YoonEuiJong</h1>
 <h3 align="center">🏫 Carreer 🏫</h3>
-<ul>
+<ul align = "cetner">
   <li>🎓 Department of Software in Sejong Univ.</li>
   <li>👨🏻‍💻 Sejong Univ. LikeLion 12nd</li>
 </ul>
